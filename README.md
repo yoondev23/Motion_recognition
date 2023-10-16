@@ -1,4 +1,4 @@
-# Motion_recognition
+# Motion_recognition 
 Posture evaluation and correction algorithm
 
 ![image](https://github.com/yoondev23/Motion_recognition/assets/128372198/1c429f35-83bc-4a98-9312-ef308a6c0f81)
